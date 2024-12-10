@@ -6,3 +6,9 @@ item = "a key."
 user_input = input("test get")
 if user_input == "get":
     commands.get()
+
+#This is here to test the look function
+you_see = "A door"
+user_input = input("test look")
+if user_input == "look":
+    commands.look()
