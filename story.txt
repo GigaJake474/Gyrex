@@ -1,2 +1,2 @@
-setting: A ancient dwarven cave.
+setting: A ancient dwarven city.
 
