@@ -2,9 +2,6 @@
 import time
 import commands
 
-#Variables
-player_name = "Lazy Ass"
-
 #Intro
 print("Conquest for Exosite-5")
 time.sleep(1)
