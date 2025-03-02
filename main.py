@@ -55,3 +55,19 @@ time.sleep(1)
 print("Fate has made you a teenage boy by the name of...")
 time.sleep(3)
 print("GYREX")
+
+#Game Start
+time.sleep(1)
+print("Welcome Gyrex")
+time.sleep(1)
+
+#Bedroom
+print("You wake up in your bedroom and you see your PHONE on the nightstand and you see your MONITOR flashing a message.")
+input("What do you do?")
+while input != "look at phone" or "look at monitor":
+    print("Invalid Command")
+    input("What do you do?")
+    if input == "look at  phone":
+        print("You pick up your PHONE and see a MESSAGE from your dad.")
+    else:
+        print("You look at your MONITOR and see an alert that a.i. has taken over the city.")
