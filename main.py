@@ -69,5 +69,5 @@ while input != "look at phone" or "look at monitor":
     input("What do you do?")
     if input == "look at  phone":
         print("You pick up your PHONE and see a MESSAGE from your dad.")
-    else:
+    elif input == "look at monitor":
         print("You look at your MONITOR and see an alert that a.i. has taken over the city.")
