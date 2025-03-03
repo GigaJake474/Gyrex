@@ -3,7 +3,7 @@ import time
 import commands
 
 #Intro
-print("Conquest for Exosite-5")
+print("Gyrex")
 time.sleep(1)
 print("Hello Player")
 time.sleep(0.25)
